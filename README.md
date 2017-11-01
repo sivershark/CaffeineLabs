@@ -1,2 +1,4 @@
 # CaffeineLabs
-Repositorio para subir los apuntes de caffeinelabs
+Repositorio para subir los apuntes de CaffeineLabs
+curso de CaffeineLabs
+,
